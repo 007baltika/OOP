@@ -24,4 +24,4 @@ print(v1) #Вектор(1, 1, 5)
 v2 = Vector()
 print(v2) #Пустой вектор  
      
-#Console.ReadLine()                        
+#Console.ReadLine()                      
