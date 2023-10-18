@@ -39,5 +39,5 @@ class Money():
     def __str__(self):
         return f'Ваше состояние составляет {self._dollars} долларов {self._cents} центов'    
     
-Console.ReadLine()    
+#Console.ReadLine()    
             
