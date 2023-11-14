@@ -52,7 +52,7 @@ print(summator1.total(3))    # 1 + 2 + 3
 print(summator2.total(3))    # 1 + 4 + 9
 print(summator3.total(3))    # 1 + 8 + 27
 print()
-TEST_3:
+# TEST_3:
 summator1 = Summator()
 summator2 = CustomSummator(2)
 summator3 = CustomSummator(3)
